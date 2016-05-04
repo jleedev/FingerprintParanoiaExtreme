@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerprintParanoiaExtreme</string>
+    <string name="admin_receiver_status">Admin receiver status: %s</string>
+    <string name="admin_receiver_status_enabled">Enabled</string>
+    <string name="device_admin_name">Fingerprint Paranoia Extreme</string>
+    <string name="device_admin_description">Disallows fingerprint unlock after 1 failure, until successful</string>
+</resources>
