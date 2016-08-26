@@ -6,7 +6,6 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
-import android.widget.Toast;
 
 public class MyReceiver extends DeviceAdminReceiver {
     private final String TAG = "MyReceiver";
